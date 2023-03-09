@@ -2,7 +2,4 @@
 
 ## Bulk Image converter
 
-### Built with 
-
-#### sharp
-#### node.js
+Run node convertToWebp.js
