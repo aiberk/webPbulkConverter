@@ -2,6 +2,7 @@
 
 ## Bulk Image converter
 
-### node.js
+### Built with 
 
-### sharp
+#### sharp
+#### node.js
